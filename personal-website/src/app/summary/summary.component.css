@@ -1,0 +1,22 @@
+#container-summary {
+  align-items: center;
+  background-color: #8C43FF;
+  display: flex;
+  flex-direction: column;
+  height: 500px;
+  padding: 5% 0 0 0;
+}
+
+#container-summary__title {
+  color: white;
+  font-family: Avenir-Black;
+}
+
+#container-summary__summary {
+  color: white;
+  font-family: Avenir-Roman;
+  font-size: 1.25em;
+  line-height: 1.5;
+  text-align: center;
+  width: 50%;
+}
